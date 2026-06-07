@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-Job: Azubi als Entwickler.
-Alter: 17
-Skills: Anfänger C++
-Road to: Fortgeschritener Dev
+Job: Azubi als Entwickler.\n
+Alter: 17\n
+Skills: Anfänger C++\n
+Road to: Fortgeschritener Dev\n
 
