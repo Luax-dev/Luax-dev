@@ -14,7 +14,7 @@
 
     </td>
     <td>
-      <img src="https://via.placeholder.com/160" width="160">
+      <img src="Screenshot 2026-06-08 125229.png" width="160">
     </td>
   </tr>
 </table>
