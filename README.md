@@ -14,7 +14,7 @@
 
     </td>
     <td>
-      <img src="Screenshot 2026-06-08 125229.png" width="160">
+      <img src="Screenshot 2026-06-08 125229.png" width="200">
     </td>
   </tr>
 </table>
