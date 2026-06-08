@@ -2,10 +2,22 @@
 
 ## Über mich
 
-- Alter: 17 Jahre
-- Job: Azubi als Entwickler
-- Skills: Anfänger in C++
-- Ziel: Fortgeschrittener Entwickler werden
+<table>
+  <tr>
+    <td>
+
+- Alter: 17 Jahre  
+- Wohnort: Baden Württemberg (The länd)  
+- Job: Azubi als Entwickler  
+- Skills: Anfänger in C++  
+- Ziel: Fortgeschrittener Entwickler werden  
+
+    </td>
+    <td>
+      <img src="https://via.placeholder.com/160" width="160">
+    </td>
+  </tr>
+</table>
 
 ## Aktuell lerne ich
 
@@ -15,5 +27,5 @@
 
 ## Projekte
 
-Lokale AI mit extra funktionen
-Eigene Webseite
+- Lokale AI mit extra Funktionen  
+- Eigene Webseite  
