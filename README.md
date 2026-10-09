@@ -27,5 +27,4 @@
 
 ## Projekte
 
-- Lokale AI mit extra Funktionen  
-- Eigene Webseite  
+- Spotify API Tool zum erstellen / Bearbeiten von Playlists 
